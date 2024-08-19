@@ -1,4 +1,4 @@
-# Codes for "Stability-based Generalization Assessment for Stochastic Bilevel Optimization"
+# Codes for "Stability-based Generalization Assessment for Stochastic Bilevel Optimization" accepted by IJCAI 2024.
 
 # Code & Data Acknowledgement
 
@@ -70,4 +70,19 @@ number = {6266},
 pages = {1332-1338},
 year = {2015}}
 ```
+
+## If you are interested in this work, please refer to https://www.ijcai.org/proceedings/2024/609 
+## and cite as
+
+@inproceedings{zhang2024genbo,
+  title     = {Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization},
+  author    = {Zhang, Xuelin and Chen, Hong and Gu, Bin and Gong, Tieliang and Zheng, Feng},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}}
+  pages     = {5508--5516},
+  year      = {2024}
+}
+
+
+
 
