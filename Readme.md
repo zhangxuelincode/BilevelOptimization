@@ -1,4 +1,4 @@
-# Codes for "Stability-based Generalization Assessment for Stochastic Bilevel Optimization" accepted by IJCAI 2024.
+# Codes for "Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization" accepted by IJCAI 2024.
 
 # Code & Data Acknowledgement
 
