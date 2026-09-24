@@ -193,7 +193,8 @@ If you are interested in this work, please refer to [the IJCAI 2024 proceedings]
   note      = {Main Track},
   doi       = {10.24963/ijcai.2024/609},
   url       = {https://doi.org/10.24963/ijcai.2024/609},
-}```
+}
+```
 
 <span id='acknowledgement'/>
 
